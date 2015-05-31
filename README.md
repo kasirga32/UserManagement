@@ -14,6 +14,6 @@ This project created for request of Infonal Company. The project provides CRUD o
     
 # Developed with
 
-    Eclipse
+    Eclipse IDE
     Tomcat 8
 
